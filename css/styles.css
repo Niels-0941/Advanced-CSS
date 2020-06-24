@@ -7,7 +7,7 @@ body {
 	background-image: url("../images/BackCSS.png");
 	background-size: cover; 
 	background-repeat: no-repeat;
-	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-family: 'Roboto', sans-serif;
 	color: #F000000;
 }
 
